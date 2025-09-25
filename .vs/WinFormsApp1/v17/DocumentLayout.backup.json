@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LOQ\\OneDrive\\M\u00E1y t\u00EDnh\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA1754A-3FAF-4F25-80ED-FB70F376772E}|WinFormsApp1.vbproj|c:\\users\\loq\\onedrive\\m\u00E1y t\u00EDnh\\winformsapp1\\quanlysinhvien.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0EA1754A-3FAF-4F25-80ED-FB70F376772E}|WinFormsApp1.vbproj|solutionrelative:quanlysinhvien.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA1754A-3FAF-4F25-80ED-FB70F376772E}|WinFormsApp1.vbproj|c:\\users\\loq\\onedrive\\m\u00E1y t\u00EDnh\\winformsapp1\\quanlysinhvien.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0EA1754A-3FAF-4F25-80ED-FB70F376772E}|WinFormsApp1.vbproj|solutionrelative:quanlysinhvien.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "quanlysinhvien.vb",
+              "DocumentMoniker": "C:\\Users\\LOQ\\OneDrive\\M\u00E1y t\u00EDnh\\WinFormsApp1\\quanlysinhvien.vb",
+              "RelativeDocumentMoniker": "quanlysinhvien.vb",
+              "ToolTip": "C:\\Users\\LOQ\\OneDrive\\M\u00E1y t\u00EDnh\\WinFormsApp1\\quanlysinhvien.vb",
+              "RelativeToolTip": "quanlysinhvien.vb",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAqwEcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-25T12:52:14.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "quanlysinhvien.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LOQ\\OneDrive\\M\u00E1y t\u00EDnh\\WinFormsApp1\\quanlysinhvien.vb",
+              "RelativeDocumentMoniker": "quanlysinhvien.vb",
+              "ToolTip": "C:\\Users\\LOQ\\OneDrive\\M\u00E1y t\u00EDnh\\WinFormsApp1\\quanlysinhvien.vb [Design]",
+              "RelativeToolTip": "quanlysinhvien.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-29T15:53:09.591Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
