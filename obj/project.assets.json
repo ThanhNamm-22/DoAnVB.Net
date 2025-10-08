@@ -1765,11 +1765,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LOQ\\OneDrive\\Máy tính\\WinFormsApp1\\WinFormsApp1.vbproj",
+      "projectUniqueName": "C:\\Users\\LOQ\\Desktop\\NguyenThanhNam_DoAnVB\\WinFormsApp1.vbproj",
       "projectName": "WinFormsApp1",
-      "projectPath": "C:\\Users\\LOQ\\OneDrive\\Máy tính\\WinFormsApp1\\WinFormsApp1.vbproj",
+      "projectPath": "C:\\Users\\LOQ\\Desktop\\NguyenThanhNam_DoAnVB\\WinFormsApp1.vbproj",
       "packagesPath": "C:\\Users\\LOQ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LOQ\\OneDrive\\Máy tính\\WinFormsApp1\\obj\\",
+      "outputPath": "C:\\Users\\LOQ\\Desktop\\NguyenThanhNam_DoAnVB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

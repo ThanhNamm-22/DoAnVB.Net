@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NiwXZI6FHVg=",
+  "dgSpecHash": "LRM+OX9yHWs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\LOQ\\OneDrive\\Máy tính\\WinFormsApp1\\WinFormsApp1.vbproj",
+  "projectFilePath": "C:\\Users\\LOQ\\Desktop\\NguyenThanhNam_DoAnVB\\WinFormsApp1.vbproj",
   "expectedPackageFiles": [
     "C:\\Users\\LOQ\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\LOQ\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",
